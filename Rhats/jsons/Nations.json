@@ -1,0 +1,147 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255],
+		"innerColor": [00,255,00],
+	},
+	
+		{
+		"name": "Francie",
+		"leaderName": "Charles VII the Victorious",
+		"adjective": ["Francians"],
+		"startBias": ["Grassland"],
+	// "preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "This country look fertile. Lot of Grasslands, Forests and FreshWater. All yours. Let's live and prosper on it, and kick-ass around if needed, will we ?",
+		"startIntroPart2": "You are the bravest Rhat around, so we voted for you as our king. Yes, like that. We are a good all-around people, that prefer prosper on his aown land than to attack the foreigners, but if needed, why not ?",
+		
+		"declaringWar": "Politically, liberating you a little bit feels like an excellent idea. But just because you don't own any right on this territory, of course. Right above everything",
+		"attacked": "Politically, we understand why you do that. But we are still going to beat you with your own legs. No hard feelings. At all",
+		"defeated": "We are NOT defeated. we LOOK like it.",
+		"introduction": "I am Charles VII the Victorious, King of the franciest Rhats around. I look to round us some natural frontiers, but not necessarily at your place, of course.",
+		
+		"neutralHello": "Hello, you. You look pretty well tonight.",
+		"neutralLetsHearIt": ["I'm open to discussing","Why, yes."],
+		"neutralNo": ["My people won't be interested, I think","It won't be possible"],
+		"neutralYes": ["Yes, I think it's a good idea.","Why not ? Let's do it.","I'm agreeing."],
+		"hateHello": "Oh, that's you again, Cold Nose...",
+		"hateLetsHearIt": "Mpf... Well, I suppose politic needs open ears. You may speak.",
+		"hateNo": ["You can shove that proposition somewhere...","Still too drunk to think clearly, I see. No."],
+		"hateYes": ["Mpf... I CAN accept that, yes.","At least you can think clearly, sometimes...","Quiet, yes, I accept. Something else ?"],
+		
+		"afterPeace": "Peace is a great thing. Let's repair all what have been destroyed by the war, now.",
+		"tradeRequest": "I have a little idea to enrich us together...",
+		//"outerColor": [0,85,164],
+		"outerColor": [00, 29, 110],
+		"innerColor": [239,65,53],
+		"uniqueName": "Gallic farms",
+		"uniqueText": "Rhats from Francie are pretty good at farming. They even invented the first haverster, and then can have +1 food from every farm they have.",
+		"uniques": ["[+1 Food] from every [Farm]"],
+		"cities": ["Lugdunum","Bibracte","Burdigala","Uxellodunum","Gergovie","Genaba","Vesontio","Alesia","Agedincum","Vix","Cenabum","Avaricum","Nevirnum","Lutetia","Atuatuca","Bibrax","Samarobriva","Noviodunum","Durocortorum","Divodurom","Mediolanum Santonum","Gesoriocum","Bagacum","Condate","Autricum","Tullum","Octodurus","Oburodunum","Divona","Limonum","Suindunum","Autessiodunum","Argentomagus","Segora","Coriallum"]
+	},
+		{
+		"name": "Britanie",
+		"leaderName": "Alfred the Great",
+		"adjective": ["Britanians"],
+		"startBias": ["Coast"],
+	// "preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Beyond these rich grasslands and forested hills, there is the sea. Your sea. And beyond the sea, there are other rich lands the fact the sea is your will make yours, too.",
+		"startIntroPart2": "You are the Rhat who pulled your people out of the shadow. From a bunch of ugly stupids clams' eaters, your made an litterate people able to use this knowledge to dominate the World.",
+		
+		"declaringWar": "I wont try to explain to the sad under-educated savage I'm facing what the true Rule of Britania is. I'm just going to make your eat it.",
+		"attacked": "Politically, we understand why you do that. But we are still going to beat you with your own legs. No hard feelings. At all",
+		"defeated": "From the shadows I and my people cames, to the shadow I'm returning alone. Please treat my people like yours, and they will do the same for you.",
+		"introduction": "I am alfred, King of Gritania and of this fair people, and probable master of te World if I can help it.",
+		
+		"neutralHello": "Hi to you, good sir.",
+		"neutralLetsHearIt": ["I'm alls hears"],
+		"neutralNo": ["I don't see how it could be of any interest, no."],
+		"neutralYes": ["Well, yes, seems a good idea to me. Let's do it."],
+		"hateHello": "Honestly, seing you this morning is NOT how I imagine to begin a good journey.",
+		"hateLetsHearIt": "Speak fast, least your stench kill me.",
+		"hateNo": ["Take your proposition with you, and drown together when returning home."],
+		"hateYes": ["As much I hate to admit it, I can see an use of your proposition. We will do it."],
+		
+		"afterPeace": "We shouldn't have gone to war. Peace is what we need the most.",
+		"tradeRequest": "Dear colleague, I think this proposition would merit some attention from your part",
+		//"outerColor": [0,85,164],
+		"outerColor": [255, 255, 255],
+		"innerColor": [255,0,0],
+		"uniqueName": "Rule Britania",
+		"uniqueText": "Rhats from Britania have, it is said, sea water instead of blood. And that the sea recognize them as its children to them to conquer and submit the land. They got +2 speed on sea and a free Burh (city fortress) in every new city",
+		"uniques": ["+[2] Movement for all [Water] units"],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester","Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton","Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"]
+	},
+
+		{
+		"name": "Italia",
+		"leaderName": "Caius Julius Caesar",
+		"adjective": ["Roman"],
+	// "preferredVictoryType": "Domination",
+		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
+		"startIntroPart1": "Beyond these rich grasslands and forested hills, there is the sea. Your sea. And beyond the sea, there are other rich lands the fact the sea is your will make yours, too.",
+		"startIntroPart2": "You are the Rhat who pulled your people out of the shadow. From a bunch of ugly stupids clams' eaters, your made an litterate people able to use this knowledge to dominate the World.",
+		
+		"declaringWar": "I wont try to explain to the sad under-educated savage I'm facing what the true Rule of Britania is. I'm just going to make your eat it.",
+		"attacked": "Politically, we understand why you do that. But we are still going to beat you with your own legs. No hard feelings. At all",
+		"defeated": "From the shadows I and my people cames, to the shadow I'm returning alone. Please treat my people like yours, and they will do the same for you.",
+		"introduction": "I am alfred, King of Gritania and of this fair people, and probable master of te World if I can help it.",
+		
+		"neutralHello": "Hi to you, good sir.",
+		"neutralLetsHearIt": ["I'm alls hears"],
+		"neutralNo": ["I don't see how it could be of any interest, no."],
+		"neutralYes": ["Well, yes, seems a good idea to me. Let's do it."],
+		"hateHello": "Honestly, seing you this morning is NOT how I imagine to begin a good journey.",
+		"hateLetsHearIt": "Speak fast, least your stench kill me.",
+		"hateNo": ["Take your proposition with you, and drown together when returning home."],
+		"hateYes": ["As much I hate to admit it, I can see an use of your proposition. We will do it."],
+		
+		"afterPeace": "We shouldn't have gone to war. Peace is what we need the most.",
+		"tradeRequest": "Dear colleague, I think this proposition would merit some attention from your part",
+		//"outerColor": [0,85,164],
+		"outerColor": [99, 00, 00],
+		"innerColor": [255,222,0],
+		"uniqueName": "Glory of Rome",
+		"uniqueText": "Because Roma is the Center of the Universe, all Rhats in the Imperium want to imitate it, and simply do mostly the same thing, economizing one fourth of the Productivity points for every building already present in Roma.",
+		"uniques": ["+25% Production towards any buildings that already exist in the Capital"],
+		"cities": ["Roma","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester","Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton","Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"]
+	},
+
+		{			
+		"name": "Yamato",
+		"leaderName": "Meiji Tenno",
+		"adjective": ["Yamatians"],
+		"startBias": ["Coast"],
+	// "preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "In this country of sea and mountain were borns hunters, then farmers, then warriors. And then conquerors",
+		"startIntroPart2": "From this bunch of Rhats without knowledge of anything, simply living of what the mountains and the rivers have to offers them, the Goddess Amarathesu, the Furred Sun, commanded you to make a real and true civilization. Note sure why, but let's not make the Sun angry, will we ?",
+		
+		"declaringWar": "Let's say the things simply : We need this land, and being not being really sure you are sentient creatures is not really playing in your favor",
+		"attacked": "Time for pest control...",
+		"defeated": "If that's what it cost to avoid the extermination of our people, I'm surrendering to your kindness",
+		"introduction": "I am Meiji Tenno, and got the mandate of the Sun to lead my people to glory and shinny things. Wich, by the way, you seem to have",
+		
+		"neutralHello": "Hi, foreigner.",
+		"neutralLetsHearIt": ["I'm listening."],
+		"neutralNo": ["My Godess, Amarathesu, would surely disaprove. I'm sorry but I'm not going to risk the wrath of the Sun herself."],
+		"neutralYes": ["This sort of proposition would please our Godess. We accept."],
+		"hateHello": "Diplomaticaly speaking, I feel obligated to salute you.",
+		"hateLetsHearIt": "Even if I don't see why I should hear you, it's apparently the diplomatic thing to do. Then speak.",
+		"hateNo": ["In your dreams, ragdoll."],
+		"hateYes": ["Interesting proposition, meaning it's probably not from yourself. I accept."],
+		
+		"afterPeace": "Rice don't plow itself. We will have all the time for war later. But now, let's put the weapons away.",
+		"tradeRequest": "You have interesting things, we have interesting things. Let's speak of that.",
+		//"outerColor": [0,85,164],
+		"outerColor": [255, 255, 255],
+		"innerColor": [190,0,41],
+		"uniqueName": "Bushido",
+		"uniqueText": "There is nothing like loyal Rhats. Your military units always fight at fully strength, even when wounded",
+		"uniques": ["Units fight as though they were at full strength even when damaged"],
+		"cities": ["Kyoto","Tokyo","Osaka","Satsuma","Ise","Kitakyushu","Muroran","Nagoya","Yokohama","Echigo","Kobe","Kagoshima","Fukuoka","Sendai","Bizen","Kanazawa","Nara","Sapporo","Echizen","Matsuyama","Toyama","Akita","Chiba","Shimonoseki","Hiroshima","Nagasaki","Wakkanai","Fukushima","Nara","Izumi","Tanae","Hakodate","Kamakura","Omi","Izumo","Suo","Kozuke","Sado","Matsue","Nanao","Okazaki","Mito","Obohiro","Hitachi"]
+	},
+
+]
